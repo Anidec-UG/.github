@@ -1,6 +1,6 @@
 # Anidec UG
 
-![Anidec Logo](url-to-logo) 
+<img src="anidec_logo.svg" width="180" height="90" alt="Anidec Logo">
 
 ## Über uns
 Anidec ist ein aufstrebender IT-Dienstleister im B2B-Bereich. Wir bieten verschiedenste Softwareanwendungen und IT-Dienstleistungen an und lösen Ihre technischen Herausforderungen.
